@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">downloadandroidapp</string>
+    <string name="secondary_text">Price</string>
+    <string name="supporting_text">description</string>
+</resources>
